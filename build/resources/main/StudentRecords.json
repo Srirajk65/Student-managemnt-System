@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Alice",
+    "DOB": "2000-05-15",
+    "class": 12,
+    "marks": {
+      "MATHEMATICS": 92,
+      "SCIENCE": 88,
+      "HISTORY": 75,
+      "ENGLISH": 95,
+      "COMPUTER_SCIENCE": 90
+    }
+  },
+  {
+    "name": "Bob",
+    "DOB": "2001-02-28",
+    "class": 11,
+    "marks": {
+      "MATHEMATICS": 78,
+      "SCIENCE": 85,
+      "HISTORY": 80,
+      "ENGLISH": 88,
+      "COMPUTER_SCIENCE": 92
+    }
+  },
+  {
+    "name": "Charlie",
+    "DOB": "1999-09-10",
+    "class": 12,
+    "marks": {
+      "MATHEMATICS": 85,
+      "SCIENCE": 90,
+      "HISTORY": 82,
+      "ENGLISH": 78,
+      "COMPUTER_SCIENCE": 88
+    }
+  },
+  {
+    "name": "David",
+    "DOB": "2002-07-20",
+    "class": 11,
+    "marks": {
+      "MATHEMATICS": 72,
+      "SCIENCE": 78,
+      "HISTORY": 65,
+      "ENGLISH": 68,
+      "COMPUTER_SCIENCE": 70
+    }
+  },
+  {
+    "name": "Eva",
+    "DOB": "2001-11-08",
+    "class": 12,
+    "marks": {
+      "MATHEMATICS": 68,
+      "SCIENCE": 75,
+      "HISTORY": 70,
+      "ENGLISH": 72,
+      "COMPUTER_SCIENCE": 68
+    }
+  },
+  {
+    "name": "Frank",
+    "DOB": "2003-03-25",
+    "class": 11,
+    "marks": {
+      "MATHEMATICS": 76,
+      "SCIENCE": 68,
+      "HISTORY": 72,
+      "ENGLISH": 65,
+      "COMPUTER_SCIENCE": 78
+    }
+  },
+  {
+    "name": "Grace",
+    "DOB": "2002-01-14",
+    "class": 12,
+    "marks": {
+      "MATHEMATICS": 70,
+      "SCIENCE": 72,
+      "HISTORY": 75,
+      "ENGLISH": 68,
+      "COMPUTER_SCIENCE": 74
+    }
+  },
+  {
+    "name": "Henry",
+    "DOB": "2001-05-02",
+    "class": 11,
+    "marks": {
+      "MATHEMATICS": 74,
+      "SCIENCE": 70,
+      "HISTORY": 68,
+      "ENGLISH": 76,
+      "COMPUTER_SCIENCE": 72
+    }
+  },
+  {
+    "name": "Ivy",
+    "DOB": "2003-09-18",
+    "class": 12,
+    "marks": {
+      "MATHEMATICS": 68,
+      "SCIENCE": 72,
+      "HISTORY": 74,
+      "ENGLISH": 70,
+      "COMPUTER_SCIENCE": 69
+    }
+  },
+  {
+    "name": "Jack",
+    "DOB": "2002-11-30",
+    "class": 11,
+    "marks": {
+      "MATHEMATICS": 72,
+      "SCIENCE": 75,
+      "HISTORY": 70,
+      "ENGLISH": 68,
+      "COMPUTER_SCIENCE": 73
+    }
+  },
+  {
+    "name": "Katie",
+    "DOB": "2001-08-12",
+    "class": 12,
+    "marks": {
+      "MATHEMATICS": 75,
+      "SCIENCE": 68,
+      "HISTORY": 72,
+      "ENGLISH": 70,
+      "COMPUTER_SCIENCE": 74
+    }
+  },
+  {
+    "name": "Leo",
+    "DOB": "2003-02-05",
+    "class": 11,
+    "marks": {
+      "MATHEMATICS": 70,
+      "SCIENCE": 74,
+      "HISTORY": 68,
+      "ENGLISH": 72,
+      "COMPUTER_SCIENCE": 71
+    }
+  },
+  {
+    "name": "Mia",
+    "DOB": "2002-06-22",
+    "class": 12,
+    "marks": {
+      "MATHEMATICS": 68,
+      "SCIENCE": 76,
+      "HISTORY": 70,
+      "ENGLISH": 73,
+      "COMPUTER_SCIENCE": 69
+    }
+  },
+  {
+    "name": "Oliver",
+    "DOB": "2002-12-10",
+    "class": 11,
+    "marks": {
+      "MATHEMATICS": 45,
+      "SCIENCE": 48,
+      "HISTORY": 35,
+      "ENGLISH": 40,
+      "COMPUTER_SCIENCE": 38
+    }
+  },
+  {
+    "name": "Penelope",
+    "DOB": "2001-04-17",
+    "class": 12,
+    "marks": {
+      "MATHEMATICS": 40,
+      "SCIENCE": 42,
+      "HISTORY": 38,
+      "ENGLISH": 36,
+      "COMPUTER_SCIENCE": 41
+    }
+  },
+  {
+    "name": "Quincy",
+    "DOB": "2003-07-05",
+    "class": 11,
+    "marks": {
+      "MATHEMATICS": 38,
+      "SCIENCE": 40,
+      "HISTORY": 36,
+      "ENGLISH": 42,
+      "COMPUTER_SCIENCE": 37
+    }
+  },
+  {
+    "name": "Rachel",
+    "DOB": "2002-01-25",
+    "class": 12,
+    "marks": {
+      "MATHEMATICS": 42,
+      "SCIENCE": 35,
+      "HISTORY": 40,
+      "ENGLISH": 38,
+      "COMPUTER_SCIENCE": 39
+    }
+  },
+  {
+    "name": "Rachel",
+    "DOB": "2001-01-25",
+    "class": 12,
+    "marks": {
+      "MATHEMATICS": 82,
+      "SCIENCE": 85,
+      "HISTORY": 80,
+      "ENGLISH": 88,
+      "COMPUTER_SCIENCE": 99
+    }
+  },
+  {
+    "name": "Samuel",
+    "DOB": "2001-09-15",
+    "class": 11,
+    "marks": {
+      "MATHEMATICS": 37,
+      "SCIENCE": 39,
+      "HISTORY": 42,
+      "ENGLISH": 36,
+      "COMPUTER_SCIENCE": 38
+    }
+  }
+]
